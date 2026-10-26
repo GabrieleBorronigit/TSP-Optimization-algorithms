@@ -1,0 +1,14 @@
+# compiled files
+*.o
+*.exe
+main
+vmc
+tsp
+simulator
+
+# large outputs
+*.xyz
+seed.out
+
+.DS_Store
+.ipynb_checkpoints/
